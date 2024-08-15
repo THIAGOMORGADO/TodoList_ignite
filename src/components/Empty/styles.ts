@@ -21,7 +21,7 @@ export const styles = StyleSheet.create({
     alignItems: 'center'
   },
   textBold: {
-    
+    textAlign: 'center',
     fontSize: theme.font_size.md,
     color: theme.colors.base.gray300,
     fontFamily: theme.font_family.bold,

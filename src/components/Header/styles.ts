@@ -34,6 +34,10 @@ export const styles = StyleSheet.create({
     color: theme.colors.base.gray200,
     fontFamily: theme.font_family.regular,
   },
+  inputBorder: {
+    borderColor: theme.colors.brand.purple,
+   
+  },
   btn: {
     height: 54,
     width: 54,
